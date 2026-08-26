@@ -1,0 +1,6 @@
+{
+  "name": "Plantom",
+  "description": "Plantom (پلنتوم) — Advanced personal productivity and planning system supporting Persian and English with Jalali and Gregorian calendars, Kanban projects, tasks, habits, focus mode, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
